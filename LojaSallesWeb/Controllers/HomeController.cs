@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using LojaSallesWeb.Models;
+using LojaSallesWeb.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LojaSallesWeb.Controllers
